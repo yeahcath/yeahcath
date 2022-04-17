@@ -1,5 +1,4 @@
 # Oi! Me chamo Catharine, mas pode chamar de Cath
-- 😀 Hoje trabalho com front-end;
 - 🌱 Estou estudando as principais ferramentas de Front-end: HTML, CSS, Java Script e typescript;
 - 👩🏾‍🤝‍👩🏻Procuro por colaborar em criação de sites
 - 🐸 Ela/Dela;
