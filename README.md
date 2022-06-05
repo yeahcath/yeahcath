@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/94121842/172051211-ce0aff07-e695-468b-8a50-0b727ffd77a3.png/">
+
 # Oi! Me chamo Catharine, mas pode chamar de Cath
 - 🌱 Estou estudando as principais ferramentas de Front-end: HTML, CSS, Java Script e typescript;
 - 👩🏾‍🤝‍👩🏻Procuro por colaborar em criação de sites
